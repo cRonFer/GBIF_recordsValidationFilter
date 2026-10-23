@@ -1,4 +1,3 @@
-# GBIF_recordsValidationFilter
 This repository contains an R script for the validation and filter species occurrences records from Global Biodiversity Information Facility.
 The workflow follows the schema of OCCUR (Ronquillo et al. 2024 Methods in Ecology, see https://ecoinformatic.shinyapps.io/OCCUR/).
 
